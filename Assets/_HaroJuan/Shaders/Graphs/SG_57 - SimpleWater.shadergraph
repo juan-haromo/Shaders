@@ -1180,7 +1180,7 @@
     "m_ObjectId": "0261c2f150754d3e86593b6a415d3f4c",
     "m_Title": "Interseccion con otra geometria",
     "m_Position": {
-        "x": -567.9999389648438,
+        "x": -568.0,
         "y": 579.0
     }
 }
@@ -2062,8 +2062,8 @@
     "m_ObjectId": "1e7ddfe6f3b74d6d8bd89a61a945f252",
     "m_Title": "Absorption formula",
     "m_Position": {
-        "x": -686.9998779296875,
-        "y": -591.9998779296875
+        "x": -687.0,
+        "y": -592.0
     }
 }
 
@@ -2592,8 +2592,8 @@
     "m_ObjectId": "3ccd95b274664d3dbbd7f6098500f15b",
     "m_Title": "Absorption",
     "m_Position": {
-        "x": -1776.999755859375,
-        "y": -750.9998779296875
+        "x": -1777.0,
+        "y": -751.0
     }
 }
 
@@ -6403,8 +6403,8 @@
     "m_ObjectId": "c0182b30a13f4f7a8139073fd92e91ab",
     "m_Title": "Color inverso a la absorcion",
     "m_Position": {
-        "x": -1181.9998779296875,
-        "y": -375.9998779296875
+        "x": -1182.0,
+        "y": -376.0
     }
 }
 

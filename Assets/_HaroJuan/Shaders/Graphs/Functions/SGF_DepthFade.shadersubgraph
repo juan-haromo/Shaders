@@ -844,8 +844,8 @@
     "m_ObjectId": "413c47fe1eaa46ba9b18a350fe2d4ccc",
     "m_Title": "Distancia a opaques detras",
     "m_Position": {
-        "x": -961.9999389648438,
-        "y": -62.00005340576172
+        "x": -962.0,
+        "y": -61.999935150146487
     }
 }
 
@@ -1058,7 +1058,7 @@
     "m_Title": "Distance",
     "m_Position": {
         "x": -1108.0,
-        "y": -340.0
+        "y": -339.9999694824219
     }
 }
 
@@ -1485,7 +1485,7 @@
     "m_Title": "Distancia a cada pixel del objeto transparente",
     "m_Position": {
         "x": -1170.0,
-        "y": 134.99996948242188
+        "y": 135.00006103515626
     }
 }
 

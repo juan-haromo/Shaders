@@ -4942,8 +4942,8 @@ Transform:
   m_GameObject: {fileID: 663803551}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.041464806, y: -0.023472786, z: 2.0375195}
-  m_LocalScale: {x: 0.78295, y: 4.496729, z: 0.5}
+  m_LocalPosition: {x: -0.058, y: -0.037, z: 2.0375195}
+  m_LocalScale: {x: 0.7806914, y: 4.496729, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1932346229}
@@ -4993,7 +4993,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 490cf58eb18427545bcd30aba7f4c064, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6559,8 +6559,12 @@ PrefabInstance:
       value: Screen
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c4ffc8670fc01c54bae82d7b5ae4ae4a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c4ffc8670fc01c54bae82d7b5ae4ae4a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.6834302
+      value: 3.591
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c4ffc8670fc01c54bae82d7b5ae4ae4a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6568,7 +6572,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c4ffc8670fc01c54bae82d7b5ae4ae4a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 28.459438
+      value: 28.308
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c4ffc8670fc01c54bae82d7b5ae4ae4a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -8369,7 +8373,7 @@ Transform:
   m_GameObject: {fileID: 1233835732}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.684, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
