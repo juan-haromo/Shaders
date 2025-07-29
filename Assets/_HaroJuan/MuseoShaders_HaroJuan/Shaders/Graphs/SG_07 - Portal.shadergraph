@@ -1795,7 +1795,7 @@
                 "m_Node": {
                     "m_Id": "ef8f4c3926a54431bf1a9606634fb71c"
                 },
-                "m_SlotId": 1
+                "m_SlotId": 2
             },
             "m_InputSlot": {
                 "m_Node": {
@@ -9133,7 +9133,7 @@
     "m_Title": "Triplanar project",
     "m_Position": {
         "x": -2540.0,
-        "y": -1239.0001220703125
+        "y": -1239.0
     }
 }
 
@@ -9640,7 +9640,7 @@
     "m_Title": "Direction mask",
     "m_Position": {
         "x": -2353.0,
-        "y": -2016.0001220703125
+        "y": -2016.0
     }
 }
 
@@ -12091,7 +12091,7 @@
     "m_Title": "Base Color",
     "m_Position": {
         "x": -1724.0,
-        "y": 1659.0001220703125
+        "y": 1659.0
     }
 }
 
