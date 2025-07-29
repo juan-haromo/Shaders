@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HaroJuan_SG_07 - Portal
+  m_Shader: {fileID: -6465566751694194690, guid: 2bc1e51c62e9da342bcfc9fc5089f8ae, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DIRECTION_C
+  - _DIRECTION_X
+  - _DIRECTION_Y
+  - _DIRECTION_Z
+  - _FACE_A
+  - _FACE_X
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseTexture:
+        m_Texture: {fileID: 2800000, guid: f9551b96860b96d429e6bce8747560fc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DownAmbientOcslusion:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DownMetallic:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DownSmoothness:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DownTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainText:
+        m_Texture: {fileID: 2800000, guid: fc29d30a85e4fbd4683cd040d299c504, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_309ab0b2d8e14f13a7955d6969cb5b2b_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 943bac3ddefb0bf4491af8eb2118f085, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_aedc9d98c99e4565a518daceed301a56_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 07ce26c5cf37d344dbb162b50632243b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b49eac4c3ee548daa23f0388e34584b3_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 943bac3ddefb0bf4491af8eb2118f085, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d4c337363c714482ba056298e5a88abb_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 0536557f0db4c8c4fa54723175e75208, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f3ba46c742054fef946cc6ffe4d6e8bb_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 2acaf36c27b640a43a8aefa627811741, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpAmbientOcclusion:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpMetallic:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpSmoothness:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpTexture:
+        m_Texture: {fileID: 2800000, guid: 2acaf36c27b640a43a8aefa627811741, type: 3}
+        m_Scale: {x: 0.5, y: 0.25}
+        m_Offset: {x: 0, y: 0.5}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Blend: 1
+    - _DIRECTION: 0
+    - _Direction: 1
+    - _DownUSeRoughness: 0
+    - _FACE: 0
+    - _NoiseIntensity: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Size: 1
+    - _Tolerance: 0.6
+    - _TransitionNoise: 0.189
+    - _TransitionSize: 0.262
+    - _TriplanarSize: 1
+    - _UpUseRoughness: 0
+    - _UseObjectSpace: 0
+    - _UseObjectSpace_1: 0
+    m_Colors:
+    - _3DScale: {r: 1, g: 1, b: 1, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 0}
+    - _DownColor: {r: 0.3679245, g: 0.19943717, b: 0.04338732, a: 0}
+    - _TriplanerScale3D: {r: 1, g: 1, b: 1, a: 0}
+    - _UpColor: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &3405827579963774343
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6185733477547259784
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Examen3_HaroJuan- Cloaking
+  m_Shader: {fileID: -6465566751694194690, guid: eeff98eb24860874c87ac3344d91e442, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _USE_BLUR_HD
+  m_InvalidKeywords:
+  - _USECROSSBLUR
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Color_Map:
+        m_Texture: {fileID: 2800000, guid: c84da509152012b46bfb66590d215138, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emmisive_Map:
+        m_Texture: {fileID: 2800000, guid: ab71366dde97b354a9cd8ee77db2d9e1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Fade_Direction_Texture:
+        m_Texture: {fileID: 2800000, guid: 2a746f198df65844d92b0777007e17b0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal_Map:
+        m_Texture: {fileID: 2800000, guid: b09efa3548aff6c42b8a30fea5a6a03c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8b2cddac134446d4a1d053fb89df1e8b_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: cada5372c74a47247b848134ee5efb3b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Transition_Texture:
+        m_Texture: {fileID: 2800000, guid: f2c259082405c0d4b9024790f4204ae6, type: 3}
+        m_Scale: {x: 20, y: 20}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Blur_Offset: 0.213
+    - _Flip_Refraction_Fresnel: 1
+    - _Light_Intensity: 0.27
+    - _Light_Normal_Strength: 1
+    - _LigthsOnInvisible: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Reflection_Blur: 0.264
+    - _Reflection_Fresnel_Power: 1
+    - _Reflection_Intensity: 1
+    - _Reflection_Normal_Strength: 0
+    - _Refraction_Fresnel_Power: 0.596
+    - _Refraction_Intensity: 0.14
+    - _Refraction_Normal_Map_Strenght: 0.157
+    - _Refraction_Normal_Strenght: 0.84
+    - _Rim_Light_Power: 0
+    - _Transition_Noise_Intensity: 1
+    - _Transition_Point: 1
+    - _Transition_Size: 0.072
+    - _USE_BLUR_HD: 1
+    - _USE_CROSS_BLUR: 0
+    m_Colors:
+    - _Light_Color: {r: 30.396547, g: 0, b: 161.21703, a: 1}
+    - _Rim_Color: {r: 0.027024439, g: 0.90588236, b: 0.015686298, a: 1}
+    - _Transition_Color: {r: 9.360578, g: 15.999998, b: 0, a: 1}
+    - _Transition_Noise_Speed: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

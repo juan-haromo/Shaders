@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-192754047057485202
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HaroJuan_SG_11 - Train
+  m_Shader: {fileID: -6465566751694194690, guid: dc7013d186cf31b428f3d41dee2bd735, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SGFLigthParallaxLayer_1e51ae8b604342cbb63834042f0555ea_ColorTexture_1801549727_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 0765676eb7f0a974dab5328ca59c419e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SGFLigthParallaxLayer_1e51ae8b604342cbb63834042f0555ea_LigthMask_1481803682_Texture2D:
+        m_Texture: {fileID: 2800000, guid: f4d33a66a23c573449bc31eac34d7aa1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SGFLigthParallaxLayer_664d8d3713f549af897e3aceccf6becf_ColorTexture_1801549727_Texture2D:
+        m_Texture: {fileID: 2800000, guid: a94a95f090ed4cd488c3d55351db52f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SGFLigthParallaxLayer_664d8d3713f549af897e3aceccf6becf_LigthMask_1481803682_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e7ba76500505bb9428d164d2084acc93, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SGFParallaxLayer_8258a3fdfa0c44aba98c270eb1210e58_Texture_3332921049_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 73d547519b26315429ebba438971706f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SGFParallaxLayer_d8cdef0717994cc387f95a7e4c26b9de_Texture_3332921049_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 3b49bb49e1fdbcf438ca8d52e6b1f2ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SGFParallaxLayer_f4a784d992144aca966f870832e30d24_Texture_3332921049_Texture2D:
+        m_Texture: {fileID: 2800000, guid: a94a95f090ed4cd488c3d55351db52f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_04b340798125440bbfa7b8e9461a3833_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 45fa3208496d5dc4f8a20df965062e9e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    m_Colors:
+    - _Color_Grass: {r: 0.17647055, g: 0.49803913, b: 0, a: 1}
+    - _Color_Sky: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6045179189659156309
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HaroJuan_SG_P4T1 - UpNormals
+  m_Shader: {fileID: -6465566751694194690, guid: e8d2f2d89329a90478b8aeb3b5605f54, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DownAmbientOcslusion:
+        m_Texture: {fileID: 2800000, guid: 25c370f052069c643aa1951c06ee0e32, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DownMetallic:
+        m_Texture: {fileID: 2800000, guid: 39941b31e7493b94f95a7b688f2da768, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DownSmoothness:
+        m_Texture: {fileID: 2800000, guid: 61c1fd5035e3da14c8f2b2dbca3c01a6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DownTexture:
+        m_Texture: {fileID: 2800000, guid: f9551b96860b96d429e6bce8747560fc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: f9551b96860b96d429e6bce8747560fc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_31df91938e7e48a584b098743b07be6d_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 25c370f052069c643aa1951c06ee0e32, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_37c325c71345476bb372615dbfaebb61_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 943bac3ddefb0bf4491af8eb2118f085, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondaryTexture:
+        m_Texture: {fileID: 2800000, guid: 67b46316cf7a54d488faa952ebbf3435, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpAmbientOcclusion:
+        m_Texture: {fileID: 2800000, guid: 67b46316cf7a54d488faa952ebbf3435, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpMetallic:
+        m_Texture: {fileID: 2800000, guid: 407ebc50b6824344aaaf48bacdfd7f42, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpSmoothness:
+        m_Texture: {fileID: 2800000, guid: 407ebc50b6824344aaaf48bacdfd7f42, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UpTexture:
+        m_Texture: {fileID: 2800000, guid: 06ae6701184b8e242ac75cf7aaf10e1e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _A: 0.541
+    - _Blend: 0
+    - _DownUSeRoughness: 1
+    - _Float: 0
+    - _MidPoint: 0
+    - _NoiseScale: 0.852
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Size: 1
+    - _Tolerance: 0.42
+    - _TransitionFade: 0
+    - _TransitionNoise: 0.335
+    - _TransitionSize: 0.282
+    - _UpUseRoughness: 1
+    - _UseObjectSpace: 0
+    m_Colors:
+    - _3DScale: {r: 1, g: 1, b: 1, a: 0}
+    - _DownColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SecondaryColor: {r: 1, g: 1, b: 1, a: 0}
+    - _UpColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

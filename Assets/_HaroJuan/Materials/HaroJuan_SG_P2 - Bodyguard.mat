@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HaroJuan_SG_P2 - Bodyguard
+  m_Shader: {fileID: -6465566751694194690, guid: 7e5e436d26091884e955cd98b90f7fa5, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AHC:
+        m_Texture: {fileID: 2800000, guid: e098625a391c6244bb679186bd6fd8e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ambiernt_Heigth_Color_Mask:
+        m_Texture: {fileID: 2800000, guid: 656794efbec0e394b98ef98dca4deb3f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorMask:
+        m_Texture: {fileID: 2800000, guid: 02308361e36ef744298d1446e5d8dfa2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Masks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_0f418e4e1db84009a03d7ae7fd507882_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: c8b8691795ccc8c4f83a225ff7a7c9e9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_278d9e859f50461ca4a8244be730a329_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: ef4cb3f540938694abf2e8e4ddb06c1b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_700645ac2499421f9e7b349efa138961_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: c8b8691795ccc8c4f83a225ff7a7c9e9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9b67eaa4b6834f5882cdaf9748b0889d_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 858406a503fa2cb47b3500fffdfaf093, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d384c680bee347de80400d50e480e761_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 51a129d366b506c40a933f04159f30ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _InlineSize: 0.2
+    - _LightSteps: 4
+    - _Offset: 0.075
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Rot_Z: 0.19
+    - _Rota_XY: -0.22
+    - _Strenght: 0.1
+    - _midpoint: 2.01
+    m_Colors:
+    - _Ambient_Ligth_Color: {r: 0.21150768, g: 0.37663996, b: 0.46226418, a: 1}
+    - _Ambient_Oclussion_Color: {r: 0.8962264, g: 0.038047332, b: 0.8194186, a: 1}
+    - _Color: {r: 0.9339623, g: 0.21586865, b: 0.21586865, a: 1}
+    - _Color_1: {r: 0.023529414, g: 0.14901961, b: 0.25882354, a: 1}
+    - _Color_10: {r: 0.8679245, g: 0.08597365, b: 0.08597365, a: 0}
+    - _Color_11: {r: 1, g: 0, b: 0, a: 0}
+    - _Color_12: {r: 0.6786911, g: 1, b: 0.48584908, a: 0}
+    - _Color_2: {r: 0.15294118, g: 0.5176471, b: 0.7176471, a: 0}
+    - _Color_3: {r: 0.2352941, g: 0.10980389, b: 0, a: 1}
+    - _Color_4: {r: 0.57647055, g: 0.4117647, b: 0.06274508, a: 1}
+    - _Color_5: {r: 1, g: 0, b: 0, a: 0}
+    - _Color_6: {r: 0.8490566, g: 0, b: 0, a: 0}
+    - _Color_7: {r: 1, g: 0, b: 0, a: 0}
+    - _Color_8: {r: 0.8867924, g: 0.13803846, b: 0.13803846, a: 0}
+    - _Color_9: {r: 1, g: 1, b: 1, a: 0}
+    - _InlineColor: {r: 0.447392, g: 0, b: 1, a: 1}
+    - _Jeans_A: {r: 0.02352941, g: 0.1490196, b: 0.2588235, a: 1}
+    - _Jeans_B: {r: 0.1529412, g: 0.5176471, b: 0.7176471, a: 1}
+    - _Ligth_Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Shirt_A: {r: 0.4117647, g: 0.4117647, b: 0.4117647, a: 1}
+    - _Shirt_B: {r: 1, g: 1, b: 0.9568628, a: 1}
+    - _ShoesBelt_A: {r: 0.23529413, g: 0.10980393, b: 0, a: 1}
+    - _ShoesBelt_B: {r: 0.57647055, g: 0.41176468, b: 0.06274508, a: 1}
+    - _Skin_A: {r: 0.5764706, g: 0.3294118, b: 0.0627451, a: 1}
+    - _Skin_B: {r: 1, g: 0.7803922, b: 0.5803922, a: 1}
+    - _Tiling_and_Offset: {r: 1, g: 1, b: 0, a: 0}
+    - _VestStraps_B: {r: 0.5490196, g: 0.5490196, b: 0.5490196, a: 1}
+    - _VestStrasps_A: {r: 0.1019608, g: 0.1019608, b: 0, a: 1}
+    - _Vest_A: {r: 0.08235294, g: 0.1294118, b: 0.2196079, a: 1}
+    - _Vest_B: {r: 0.2470588, g: 0.3568628, b: 0.4627451, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &5074706886311969886
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
