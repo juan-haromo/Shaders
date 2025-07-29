@@ -435,7 +435,7 @@
                 "m_Node": {
                     "m_Id": "7263e70ee35949f98021066b77d827c2"
                 },
-                "m_SlotId": 1
+                "m_SlotId": 2
             },
             "m_InputSlot": {
                 "m_Node": {
@@ -2952,8 +2952,8 @@
     "m_AllowMaterialOverride": false,
     "m_SurfaceType": 1,
     "m_ZTestMode": 4,
-    "m_ZWriteControl": 1,
-    "m_AlphaMode": 1,
+    "m_ZWriteControl": 2,
+    "m_AlphaMode": 2,
     "m_RenderFace": 2,
     "m_AlphaClip": false,
     "m_CastShadows": true,
@@ -3030,8 +3030,8 @@
     "m_ObjectId": "9a74a402a67f4c45944913caf51f933a",
     "m_Title": "Intensidad del fresnel con normal vector",
     "m_Position": {
-        "x": -1638.9998779296875,
-        "y": 1410.9998779296875
+        "x": -1639.0,
+        "y": 1411.0
     }
 }
 
@@ -3282,8 +3282,8 @@
     "m_ObjectId": "b4fc10fd4a8d4a00a977990aca917265",
     "m_Title": "FresnelMask",
     "m_Position": {
-        "x": -2600.999755859375,
-        "y": 292.9999694824219
+        "x": -2601.0,
+        "y": 293.0
     }
 }
 
@@ -3730,7 +3730,7 @@
     "m_ObjectId": "c80158791d4d482ab97dd9a38b8fc4b7",
     "m_Title": "Direccion de las normales segun la vista",
     "m_Position": {
-        "x": -1879.9998779296875,
+        "x": -1880.0,
         "y": -84.0
     }
 }
@@ -3957,8 +3957,8 @@
     "m_ObjectId": "ddc63d413a394f92905e5d1633b9f7c8",
     "m_Title": "Color Detras del Objeto",
     "m_Position": {
-        "x": -335.9998779296875,
-        "y": 1087.9998779296875
+        "x": -336.0,
+        "y": 1088.0
     }
 }
 
@@ -4427,8 +4427,8 @@
     "m_ObjectId": "f8a1829c9bba49dba7506aacc0194c78",
     "m_Title": "Posicion del objeto en la pantalla",
     "m_Position": {
-        "x": -1614.9998779296875,
-        "y": 1192.999755859375
+        "x": -1615.0,
+        "y": 1193.0
     }
 }
 

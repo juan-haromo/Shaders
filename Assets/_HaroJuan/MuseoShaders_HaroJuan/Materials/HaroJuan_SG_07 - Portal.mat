@@ -106,7 +106,7 @@ Material:
     m_Floats:
     - _Blend: 1
     - _DIRECTION: 0
-    - _Direction: 2
+    - _Direction: 1
     - _DownUSeRoughness: 0
     - _FACE: 0
     - _NoiseIntensity: 0

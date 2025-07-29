@@ -1,7 +1,23 @@
+using System;
 using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
+    public static Movement Instance;
+
+    private void Awake()
+    {
+        if(Instance == null)
+        {
+            Instance = this;
+            Input = new PlayerInput();
+            Input.PlayerMovement.Enable();
+        }
+        else
+        {
+            Destroy(this);
+        }
+    }
 
     public PlayerInput Input {  get; private set; }
 
@@ -14,16 +30,17 @@ public class Movement : MonoBehaviour
     float xMovement, yMovement;
     Vector3 moveDirection;
 
+    [SerializeField] AudioSource audioSource;
+    [SerializeField] GameObject canvasPanel;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Input = new PlayerInput();
-        Input.PlayerMovement.Enable();
 
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
 
-        
+        HideInteraction();
     }
 
     private void OnDestroy()
@@ -59,5 +76,21 @@ public class Movement : MonoBehaviour
             rb.linearVelocity = Vector3.zero;
         }
         Shader.SetGlobalVector("_PlayerPosition", transform.position);
+    }
+
+    public void ShowInteraction()
+    {
+        canvasPanel.SetActive(true);
+    }
+
+    public void HideInteraction()
+    {
+        canvasPanel.SetActive(false);
+    }
+
+    public void PlaySound(AudioClip audioClip)
+    {
+        audioSource.Stop();
+        audioSource.PlayOneShot(audioClip);
     }
 }

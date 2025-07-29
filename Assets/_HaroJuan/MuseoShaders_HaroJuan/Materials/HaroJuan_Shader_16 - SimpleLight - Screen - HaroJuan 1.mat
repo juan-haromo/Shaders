@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HaroJuan_SG_12 - AlienVision
-  m_Shader: {fileID: -6465566751694194690, guid: 07db2681bd7b947439368a0fd5dbca14, type: 3}
+  m_Name: HaroJuan_Shader_16 - SimpleLight - Screen - HaroJuan 1
+  m_Shader: {fileID: -6465566751694194690, guid: 2640837b039645d498e5b4e8b22dd7a0, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -16,7 +16,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3001
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
@@ -24,20 +24,20 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _Background:
-        m_Texture: {fileID: 2800000, guid: c942eda4839c3314da03f62b8df44e25, type: 3}
-        m_Scale: {x: 2, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Pattern:
-        m_Texture: {fileID: 2800000, guid: bffa559a426e0f64baef655ae658ecfa, type: 3}
+    - _EmissiveMap:
+        m_Texture: {fileID: 2800000, guid: 5bc48a913f304fb41b9d121ff54afedf, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Pattern3:
-        m_Texture: {fileID: 2800000, guid: bffa559a426e0f64baef655ae658ecfa, type: 3}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: 07ad104539f3dbc429844991ccd47f51, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_9c17d634f57f41ce95048ea1e131185b_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 943bac3ddefb0bf4491af8eb2118f085, type: 3}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: fb083116559bd6345aefb74e2ed30405, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularTexture:
+        m_Texture: {fileID: 2800000, guid: f0d18b9fac9602b49bbff1c6ec25d22c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -54,23 +54,17 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Float: 0.01
-    - _MidPoint: 0.03
-    - _Offset: 1.25
-    - _PatterIntensity: 0.019
-    - _QueueControl: 1
+    - _FlipSpecularTexture: 0
+    - _NormalStrenght: 1
+    - _QueueControl: 0
     - _QueueOffset: 0
+    - _SpecularPower: 0
     m_Colors:
-    - _BackgroundColor: {r: 0.011614433, g: 0.8207547, b: 0.047581334, a: 0}
-    - _Color: {r: 0, g: 0, b: 0, a: 1}
-    - _Color_1: {r: 0.30817774, g: 0.05157528, b: 0.5754717, a: 1}
-    - _Color_2: {r: 0.9145355, g: 0.30962977, b: 0.9245283, a: 1}
-    - _Color_3: {r: 1, g: 1, b: 1, a: 1}
-    - _Pixels: {r: 64, g: 64, b: 0, a: 0}
-    - _Resolution: {r: 64, g: 64, b: 0, a: 0}
+    - _EmissiveColor: {r: 0.4535424, g: 7.396226, b: 6.221263, a: 0}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &1514762517040982508
+--- !u!114 &5670188283067451644
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

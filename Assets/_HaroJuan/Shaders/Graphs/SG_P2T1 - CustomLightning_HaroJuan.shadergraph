@@ -8138,7 +8138,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"f9551b96860b96d429e6bce8747560fc\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -9532,7 +9532,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "m_SerializedTexture": "",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"43afb5090dc00e44db7be381e7a9ce1e\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -11674,9 +11674,9 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.0,
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
         "a": 0.0
     },
     "isMainColor": false,
