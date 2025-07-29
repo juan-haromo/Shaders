@@ -893,7 +893,7 @@
     "m_Title": "Mascara procedurak",
     "m_Position": {
         "x": -3886.0,
-        "y": 626.0000610351563
+        "y": 626.0
     }
 }
 
@@ -3135,7 +3135,7 @@
     "m_ObjectId": "c74f20de0273451cb3aa6344e11b39cd",
     "m_Title": "Macara con textura",
     "m_Position": {
-        "x": -2371.999755859375,
+        "x": -2372.0,
         "y": 224.0
     }
 }
@@ -3541,8 +3541,8 @@
     "m_ObjectId": "e81ee13acc9f4a73a2eafc6b31811c1e",
     "m_Title": "Panner",
     "m_Position": {
-        "x": -1343.9998779296875,
-        "y": 29.99999237060547
+        "x": -1344.0,
+        "y": 30.0
     }
 }
 

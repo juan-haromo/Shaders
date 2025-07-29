@@ -665,8 +665,8 @@
     "m_ObjectId": "06dc5f18bc824e628ea0df042ec1acb3",
     "m_Title": "Lux ambiental simple",
     "m_Position": {
-        "x": 499.99993896484377,
-        "y": -819.9999389648438
+        "x": 500.0,
+        "y": -820.0
     }
 }
 
@@ -852,8 +852,8 @@
     "m_ObjectId": "127dc5672b4b41f9b8270f04cbc51a84",
     "m_Title": "Cyanilux ambient light",
     "m_Position": {
-        "x": 730.9998779296875,
-        "y": -494.9999694824219
+        "x": 731.0,
+        "y": -495.0
     }
 }
 
@@ -910,8 +910,8 @@
     "m_ObjectId": "1b38bd69a18940fcbfb5b174230ae6f1",
     "m_Title": "Normales",
     "m_Position": {
-        "x": -2465.999755859375,
-        "y": 783.0000610351563
+        "x": -2466.0,
+        "y": 783.0
     }
 }
 
@@ -1109,7 +1109,7 @@
     "m_ObjectId": "263d74502ea1410a82eb5651097754ec",
     "m_Title": "Unity ambient light",
     "m_Position": {
-        "x": 762.0000610351563,
+        "x": 762.0,
         "y": -1046.0
     }
 }
@@ -2152,8 +2152,8 @@
     "m_ObjectId": "6f685338a9ec46c8a2e997b85ef186eb",
     "m_Title": "Normales default",
     "m_Position": {
-        "x": -1544.999755859375,
-        "y": 388.9999694824219
+        "x": -1545.0,
+        "y": 389.0
     }
 }
 
@@ -2164,7 +2164,7 @@
     "m_Title": "NdotL",
     "m_Position": {
         "x": -351.0,
-        "y": 366.9999084472656
+        "y": 367.0
     }
 }
 
@@ -2444,8 +2444,8 @@
     "m_ObjectId": "93a4b3199335431babbf98e5afbea3f0",
     "m_Title": "Eliminar negativos",
     "m_Position": {
-        "x": 203.99996948242188,
-        "y": 647.0000610351563
+        "x": 204.0,
+        "y": 647.0
     }
 }
 
@@ -2480,7 +2480,7 @@
     "m_Title": "Diffuse color / Albedo",
     "m_Position": {
         "x": -378.0,
-        "y": -461.9999694824219
+        "y": -462.0
     }
 }
 
@@ -2750,7 +2750,7 @@
     "m_Title": "Normales perturbadas",
     "m_Position": {
         "x": -662.0,
-        "y": 663.0000610351563
+        "y": 663.0
     }
 }
 
@@ -2892,8 +2892,8 @@
     "m_ObjectId": "b259729aaab0407892ee33e36599b7a4",
     "m_Title": "Nodo de unity",
     "m_Position": {
-        "x": -1540.9998779296875,
-        "y": 786.0000610351563
+        "x": -1541.0,
+        "y": 786.0
     }
 }
 
@@ -3371,8 +3371,8 @@
     "m_ObjectId": "e1c5c9f7644942229a8cc93ae00be397",
     "m_Title": "Ambient light w/ diffuse",
     "m_Position": {
-        "x": 1012.9998779296875,
-        "y": -496.9999694824219
+        "x": 1013.0,
+        "y": -497.0
     }
 }
 
@@ -3488,8 +3488,8 @@
     "m_ObjectId": "e53fdf6025474784b507e2b2467b1e7b",
     "m_Title": "Combinar color de luz",
     "m_Position": {
-        "x": 448.9999084472656,
-        "y": 394.9999694824219
+        "x": 449.0,
+        "y": 395.0
     }
 }
 
@@ -3720,7 +3720,7 @@
     "m_ObjectId": "ef1582cd7d76453a91880b56bdcb5640",
     "m_Title": "Normal Strenght",
     "m_Position": {
-        "x": -1836.9998779296875,
+        "x": -1837.0,
         "y": 929.0
     }
 }

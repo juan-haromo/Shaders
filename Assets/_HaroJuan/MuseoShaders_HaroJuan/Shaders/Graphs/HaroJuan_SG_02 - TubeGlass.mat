@@ -64,7 +64,7 @@ Material:
     - _RefractionPower: 2.71
     - _RefreactionIntensity: 0.1
     m_Colors:
-    - _Color: {r: 0.048460312, g: 0.9339623, b: 0.77643186, a: 0.74509805}
+    - _Color: {r: 0.048460312, g: 0.9339623, b: 0.77643186, a: 1}
     - _OffsetSpeed: {r: 0, g: 0, b: 0, a: 0}
     - _Tile: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []

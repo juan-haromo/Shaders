@@ -745,8 +745,8 @@
     "m_ObjectId": "897c778d770e4bf4ae114d29c56c813b",
     "m_Title": "Color Detras del Objeto",
     "m_Position": {
-        "x": -645.9999389648438,
-        "y": 137.0
+        "x": -646.0,
+        "y": 137.00001525878907
     }
 }
 
@@ -779,8 +779,8 @@
     "m_ObjectId": "9662e75624124acfbde0965855b33a1f",
     "m_Title": "Color Tint",
     "m_Position": {
-        "x": -140.99996948242188,
-        "y": 139.00003051757813
+        "x": -141.0,
+        "y": 139.0000457763672
     }
 }
 
@@ -930,7 +930,7 @@
     "m_Title": "Modificar color",
     "m_Position": {
         "x": -344.0000305175781,
-        "y": 183.00003051757813
+        "y": 183.00006103515626
     }
 }
 
@@ -1274,7 +1274,7 @@
     "m_Title": "Posicion del objeto en la pantalla",
     "m_Position": {
         "x": -1433.0,
-        "y": 115.00004577636719
+        "y": 115.0
     }
 }
 
