@@ -1,18 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8883570836487500884
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 9
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -20,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HaroJuan_SG_44 - Refraction3D
-  m_Shader: {fileID: -6465566751694194690, guid: c9847bdb65d0f7b459cdcf52a00465ea, type: 3}
+  m_Name: HaroJuan_Shader_11 - Camera - HaroJuan
+  m_Shader: {fileID: -6465566751694194690, guid: 485ab788e0a82e24ca045bf42554e22e, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -37,8 +24,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 7d7bb24c64bc85e499f69df7840b9ab1, type: 3}
+    - _SampleTexture2D_956fafb42de54671a8f719abac6d24be_Texture_1_Texture2D:
+        m_Texture: {fileID: 8400000, guid: 3e956ae4df1114247be6b65e41d514a0, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -55,15 +42,21 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FlipRefractionFresnel: 0
-    - _FresnelAffectNormal: 1
-    - _NormalStrength: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RefractionPower: 5
-    - _RefreactionIntensity: 0.2
-    m_Colors:
-    - _OffsetSpeed: {r: 0, g: 0, b: 0, a: 0}
-    - _Tile: {r: 2, g: 1, b: 0, a: 0}
+    m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+--- !u!114 &3515441772062512822
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

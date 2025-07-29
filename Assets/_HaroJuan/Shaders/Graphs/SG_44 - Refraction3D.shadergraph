@@ -748,6 +748,20 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
+                    "m_Id": "acd914dd46b946cf8005c8d8f1026380"
+                },
+                "m_SlotId": 2
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "ce0abe99f5f842ef807cb347d11af7b1"
+                },
+                "m_SlotId": 0
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
                     "m_Id": "b7bc7493e817494290057494a7844e14"
                 },
                 "m_SlotId": 2
@@ -1947,8 +1961,8 @@
     "m_ObjectId": "3a2b90792c864a6f80263a2981bc4687",
     "m_Title": "Animated offset",
     "m_Position": {
-        "x": -3860.000244140625,
-        "y": -762.0000610351563
+        "x": -3860.0,
+        "y": -762.0
     }
 }
 
@@ -2818,8 +2832,8 @@
     "m_ObjectId": "5faab8a73f2143a78696c418d3f279f6",
     "m_Title": "Normal distortion",
     "m_Position": {
-        "x": -2781.000244140625,
-        "y": -788.0000610351563
+        "x": -2781.0,
+        "y": -788.0
     }
 }
 
@@ -3413,8 +3427,8 @@
     "m_ObjectId": "845f9df12a7b46328ef3bb3df178b644",
     "m_Title": "FresnelMask",
     "m_Position": {
-        "x": -3053.000244140625,
-        "y": -1433.0001220703125
+        "x": -3053.0,
+        "y": -1433.0
     }
 }
 
@@ -3538,8 +3552,8 @@
     "m_ObjectId": "897c778d770e4bf4ae114d29c56c813b",
     "m_Title": "Color Detras del Objeto",
     "m_Position": {
-        "x": -646.0000610351563,
-        "y": 137.0000457763672
+        "x": -646.0,
+        "y": 137.0
     }
 }
 
@@ -3723,7 +3737,7 @@
     "m_Title": "Color Tint",
     "m_Position": {
         "x": -135.0,
-        "y": 288.00006103515627
+        "y": 288.0
     }
 }
 
@@ -3929,8 +3943,8 @@
     "m_ObjectId": "a1046429b57e45cda027b627f63a8ee6",
     "m_Title": "Intensidad del fresnel con normal map",
     "m_Position": {
-        "x": -2150.000244140625,
-        "y": 33.999996185302737
+        "x": -2150.0,
+        "y": 34.0
     }
 }
 
@@ -4439,7 +4453,7 @@
     "m_Title": "Modificar color",
     "m_Position": {
         "x": -344.0,
-        "y": 183.0000457763672
+        "y": 183.0
     }
 }
 
@@ -4533,7 +4547,7 @@
     "m_ObjectId": "b36eab7bfb9b482eaa3c92ae158d9b1b",
     "m_Title": "Direccion de las normales segun la vista",
     "m_Position": {
-        "x": -2336.000244140625,
+        "x": -2336.0,
         "y": -1805.0
     }
 }
@@ -5428,8 +5442,8 @@
     "m_ObjectId": "d94739d2949b4b2b832e759115de87c2",
     "m_Title": "Intensidad del fresnel con normal vector",
     "m_Position": {
-        "x": -2003.0001220703125,
-        "y": 450.00006103515627
+        "x": -2003.0,
+        "y": 450.0
     }
 }
 
@@ -5439,8 +5453,8 @@
     "m_ObjectId": "d9cb539a243a4ecaac473525134453a9",
     "m_Title": "Posicion del objeto en la pantalla",
     "m_Position": {
-        "x": -1984.0001220703125,
-        "y": -203.00003051757813
+        "x": -1984.0,
+        "y": -203.0
     }
 }
 
